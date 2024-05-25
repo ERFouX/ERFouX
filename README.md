@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-9E34B1?logo=Instagram&logoColor=white)](https://instagram.com/erfoux)
 [![Twitter](https://img.shields.io/badge/Twitter(X)-010101?logo=Twitter&logoColor=white)](https://x.com/ERFouX)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white)](https://www.youtube.com/@ERFouX)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22532568)
+<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22532568) -->
 
 ## Tech Stack 👨‍💻
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
